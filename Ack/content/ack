@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# place in /c/chocolatey/bin/ack
+perl /C/Chocolatey/lib/ACK2~1.04/content/ack.pl $*
